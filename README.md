@@ -12,7 +12,7 @@
 </p>
 </div>
 
-# Contents
+# Contents OR [Go To Working](#working--back-to-contents-or-back-to-curriculum)
 
 - [Summary](#summary)
 - [Community](#community)
@@ -68,26 +68,42 @@ just remember that you can't purchase success!
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
 
-# Curriculum
+# Curriculum OR [Go To Working](#working--back-to-contents-or-back-to-curriculum)
 
 The curriculum is separated into two parts:
 
-- [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
-  - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
-  - [Introduction to Analysis](#introduction-to-analysis)
+- [Core Mathematics](#core-mathematics) 
+- > NOT DONE | [WORKING](#working--back-to-contents-or-back-to-curriculum)
+  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking) 
+  - | NOT DONE | NOT WORKING
+  - [Calculus](#calculus) 
+  - | NOT DONE | NOT WORKING
+  - [Introduction to Differential Equations](#introduction-to-differential-equations) 
+  - | NOT DONE | NOT WORKING
+  - [Discrete Mathematics](#discrete-mathematics) 
+  - | NOT DONE | NOT WORKING
+  - [Linear Algebra](#linear-algebra) 
+  - | NOT DONE | NOT WORKING
+  - [Probability & Statistics](#probability--statistics) 
+  - | NOT DONE | NOT WORKING
+  - [Introduction to Analysis](#introduction-to-analysis) 
+  - | NOT DONE | NOT WORKING
   - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
+  - | NOT DONE | NOT WORKING
 - [Advanced Topics](#advanced-topics)
+- | NOT DONE | NOT WORKING
   - [Differential Equations](#differential-equations)
+  - | NOT DONE | NOT WORKING
   - [Mathematical Logic](#mathematical-logic)
+  - | NOT DONE | NOT WORKING
   - [Geometry and Topology](#geometry-and-topology)
+  - | NOT DONE | NOT WORKING
   - [Probability and Statistics](#probability-and-statistics)
+  - | NOT DONE | NOT WORKING
   - [Mathematical Analysis](#mathematical-analysis)
+  - | NOT DONE | NOT WORKING
   - [Abstract Algebra](#abstract-algebra)
+  - | NOT DONE | NOT WORKING
   
 ## Core Mathematics
 
@@ -96,14 +112,17 @@ All classes under Core Mathematics are **required**, unless stated otherwise.
 ### Introduction to Mathematical Thinking
 Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But mathematicians see math as an elegant way to explain the world around us. This class covers how to think like a mathematician and solve problems. 
 
+#### WORKING:- [Back To Contents](#contents-or-go-to-working) OR [Back To curriculum](#curriculum-or-go-to-working)
+
 **Topics covered:**
 `Mathematical mindset`
 `Number Theory`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
-[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
+Courses | Duration | Effort | Prerequisites | Status
+:-- | :--: | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none | NOT DONE
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none | NOT DONE BUT Working
+
 
 ### Calculus 
 Calculus is the study of change (differential calculus) and accumulation of quantities (integral calculus). As the cornerstone of geometry and physics, it serves as the foundation for understanding many natural phenomena and plays an essential role in modern technology, scientific discovery, and many fields, including engineering, economics, and medicine.
